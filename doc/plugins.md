@@ -111,7 +111,7 @@ The list of plugins:
 * [`rehype-meta`](https://github.com/rehypejs/rehype-meta)
   — add metadata to the head of a document
 * [`rehype-mind-elixir`](https://github.com/zakarialaoui10/rehype-plugins/blob/main/packages/mind-elixir/README.md)
-  — embed **Mind Elixir** maps, with client-side rendering powered by **Zikojs**.
+  — embed **Mind Elixir** maps, with client rendering powered by **Zikojs**.
 * [`rehype-minify`](https://github.com/rehypejs/rehype-minify)
   — minify HTML
 * [`rehype-minify-attribute-whitespace`](https://github.com/rehypejs/rehype-minify/tree/main/packages/rehype-minify-attribute-whitespace)
