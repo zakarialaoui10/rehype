@@ -110,7 +110,7 @@ The list of plugins:
   — render mermaid diagrams
 * [`rehype-meta`](https://github.com/rehypejs/rehype-meta)
   — add metadata to the head of a document
-* [`rehype-mind-elixir`]((https://github.com/zakarialaoui10/remark-plugins/blob/main/packages/mind-elixir/README.md))
+* [`rehype-mind-elixir`](https://github.com/zakarialaoui10/rehype-plugins/blob/main/packages/mind-elixir/README.md)
   — embed interactive **Mind Elixir** mind maps, with client-side rendering powered by **Zikojs**.
 * [`rehype-minify`](https://github.com/rehypejs/rehype-minify)
   — minify HTML
